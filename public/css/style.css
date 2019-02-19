@@ -1,0 +1,51 @@
+
+body { 
+  background-color:white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+  width: 100%;
+  text-align: center;
+}
+
+.container-fluid {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5%;
+}
+
+#instAndButttons{
+  width: 100%;
+  text-align: center;
+}
+
+#articles {
+  background-color: rgba(0, 0, 15, 0.489);
+  padding: 20px;
+  margin: 5px;
+}
+
+.media-body h5 a {
+  color: white;
+}
+
+.media {
+  padding: 10px;
+  color: rgba(255, 255, 255, 0.639);
+}
+
+#articles h6 {
+  color: white;
+}
+
+.container-fluid img {
+  max-width: 300px;
+}
+
+textarea, input {
+  display: block;
+  width: 100%;
+  background-color: #FCF5C7;
+}
+
